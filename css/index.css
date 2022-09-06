@@ -2648,7 +2648,7 @@ html[dir=rtl] #scrollTrigger {
         display: block;
         width: 83px;
         height: 73px
-    }
+        
 }
 
 @media screen and (min-width:767.98px) {
